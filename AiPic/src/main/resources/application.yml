@@ -5,7 +5,7 @@ spring:
   application:
     name: AIPic
   profiles:
-    active: sse
+    active: stdio
 
 server:
   port: 18173
