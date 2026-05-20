@@ -1,0 +1,15 @@
+spring:
+  ai:
+    mcp:
+      server:
+        enabled: true
+        stdio: true
+        name: sse-picServer
+        version: 1.0.0
+        type: sync
+        request-timeout: 20s
+
+
+
+
+

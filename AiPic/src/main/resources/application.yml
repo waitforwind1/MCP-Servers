@@ -1,0 +1,11 @@
+spring:
+  main:
+    web-application-type: servlet
+    banner-mode: off
+  application:
+    name: AIPic
+  profiles:
+    active: sse
+
+server:
+  port: 18173
